@@ -111,8 +111,8 @@ def check_nickname(username, services, user_agents):
 if __name__ == '__main__':
     handlesweep()
     print("\n[1] Nickname Checker")
-    print("[2] Email Format Check")
-    print("[3] Email Presence on Services")
+    print("[2] nothing")
+    print("[3] nothing")
     print("[q] Quit")
     choice = input("Choose Function(1): ")
 
