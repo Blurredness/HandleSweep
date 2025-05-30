@@ -28,10 +28,11 @@ To get started with **Handle Sweep**, follow the steps below to install and run 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/HandleSweep.git
+   git clone https://github.com/Blurredness/HandleSweep.git
 
 2. Install the required dependencies:
 
+cd HandleSweep
 pip install -r requirements.txt
 
 
