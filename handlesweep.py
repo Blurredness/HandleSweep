@@ -18,7 +18,7 @@ def handlesweep():
                                                         |_|
 
 Made by: Blurredness/PA3MblTOCTb
-TG-Channel: https://t.me/Blurredness
+TG-Channel: https://t.me/Blurredness (russian lang only)
 Enjoy >:)
 (Thx for using)
 """)
