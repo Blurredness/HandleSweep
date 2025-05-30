@@ -32,12 +32,12 @@ To get started with **Handle Sweep**, follow the steps below to install and run 
 
 2. Install the required dependencies:
 
-```bash
+   ```bash
    cd HandleSweep
-```
-```bash
+
+   ```bash
    pip install -r requirements.txt
-```
+
 
 3. Run the tool:
 
