@@ -34,16 +34,19 @@ To get started with **Handle Sweep**, follow the steps below to install and run 
 
    ```bash
    cd HandleSweep
+   ```
+
 
    ```bash
    pip install -r requirements.txt
+   ```
 
 
 3. Run the tool:
 
-```bash
-python handlesweep.py
-```
+   ```bash
+   python handlesweep.py
+   ```
 
 4. Enter the username you want to check.
 
