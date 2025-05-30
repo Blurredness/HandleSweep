@@ -32,14 +32,18 @@ To get started with **Handle Sweep**, follow the steps below to install and run 
 
 2. Install the required dependencies:
 
+```bash
 cd HandleSweep
+```
+```bash
 pip install -r requirements.txt
-
+```
 
 3. Run the tool:
 
+```bash
 python handlesweep.py
-
+```
 
 4. Enter the username you want to check.
 
@@ -60,4 +64,6 @@ Green: Username is taken.
 Red: Username is available.
 
 Yellow: Unknown status (usually due to errors or restrictions).
+
+Purple: Error
 
