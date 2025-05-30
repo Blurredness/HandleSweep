@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/HSBanner.png" alt="Handle Sweep Banner" width="100%">
+</p>
+
 # Handle Sweep
 
 ## Overview
